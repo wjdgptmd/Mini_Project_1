@@ -1,0 +1,152 @@
+Country,Code,Date,Travel_Control
+Afghanistan,AFG,2022-08-01,No Restriction
+Albania,ALB,2022-08-01,No Restriction
+Algeria,DZA,2022-08-01,Screening
+Angola,AGO,2022-08-01,Screening
+Argentina,ARG,2022-08-01,Screening
+Aruba,ABW,2022-08-01,No Restriction
+Australia,AUS,2022-08-01,No Restriction
+Austria,AUT,2022-08-01,No Restriction
+Azerbaijan,AZE,2022-08-01,Screening
+Bahamas,BHS,2022-08-01,Screening
+Bahrain,BHR,2022-08-01,No Restriction
+Bangladesh,BGD,2022-08-01,Screening
+Barbados,BRB,2022-08-01,Screening
+Belarus,BLR,2022-08-01,Screening
+Belgium,BEL,2022-08-01,Attention
+Belize,BLZ,2022-08-01,Screening
+Benin,BEN,2022-08-01,Screening
+Bermuda,BMU,2022-08-01,Screening
+Bolivia,BOL,2022-08-01,Screening
+Bosnia and Herzegovina,BIH,2022-08-01,No Restriction
+Botswana,BWA,2022-08-01,Screening
+Brazil,BRA,2022-08-01,Screening
+Bulgaria,BGR,2022-08-01,No Restriction
+Burundi,BDI,2022-08-01,Screening
+Cambodia,KHM,2022-08-01,Screening
+Cameroon,CMR,2022-08-01,Screening
+Canada,CAN,2022-08-01,Screening
+Cape Verde,CPV,2022-08-01,Screening
+Central African Republic,CAF,2022-08-01,Screening
+Chad,TCD,2022-08-01,Screening
+China,CHN,2022-08-01,Attention
+Colombia,COL,2022-08-01,Screening
+Congo,COG,2022-08-01,Screening
+Croatia,HRV,2022-08-01,No Restriction
+Czechia,CZE,2022-08-01,No Restriction
+Democratic Republic of Congo,COD,2022-08-01,Screening
+Denmark,DNK,2022-08-01,No Restriction
+Djibouti,DJI,2022-08-01,Screening
+Dominica,DMA,2022-08-01,Screening
+Dominican Republic,DOM,2022-08-01,No Restriction
+Ecuador,ECU,2022-08-01,Screening
+Eritrea,ERI,2022-08-01,Screening
+Estonia,EST,2022-08-01,No Restriction
+Eswatini,SWZ,2022-08-01,Screening
+Ethiopia,ETH,2022-08-01,Screening
+Faeroe Islands,FRO,2022-08-01,No Restriction
+Fiji,FJI,2022-08-01,Screening
+Finland,FIN,2022-08-01,Screening
+France,FRA,2022-08-01,No Restriction
+Gabon,GAB,2022-08-01,No Restriction
+Gambia,GMB,2022-08-01,Screening
+Georgia,GEO,2022-08-01,No Restriction
+Germany,DEU,2022-08-01,No Restriction
+Ghana,GHA,2022-08-01,Screening
+Greece,GRC,2022-08-01,No Restriction
+Guam,GUM,2022-08-01,Attention
+Guatemala,GTM,2022-08-01,Screening
+Guyana,GUY,2022-08-01,Screening
+Haiti,HTI,2022-08-01,Screening
+Honduras,HND,2022-08-01,Screening
+Hong Kong,HKG,2022-08-01,Attention
+Hungary,HUN,2022-08-01,No Restriction
+India,IND,2022-08-01,Screening
+Indonesia,IDN,2022-08-01,Screening
+Iran,IRN,2022-08-01,Screening
+Iraq,IRQ,2022-08-01,Screening
+Israel,ISR,2022-08-01,No Restriction
+Italy,ITA,2022-08-01,No Restriction
+Japan,JPN,2022-08-01,Screening
+Jordan,JOR,2022-08-01,No Restriction
+Kazakhstan,KAZ,2022-08-01,No Restriction
+Kenya,KEN,2022-08-01,Screening
+Kiribati,KIR,2022-08-01,No Restriction
+Kosovo,OWID_KOS,2022-08-01,No Restriction
+Kuwait,KWT,2022-08-01,No Restriction
+Kyrgyzstan,KGZ,2022-08-01,No Restriction
+Laos,LAO,2022-08-01,Screening
+Latvia,LVA,2022-08-01,No Restriction
+Lebanon,LBN,2022-08-01,Screening
+Lesotho,LSO,2022-08-01,Screening
+Liberia,LBR,2022-08-01,Screening
+Libya,LBY,2022-08-01,Screening
+Lithuania,LTU,2022-08-01,No Restriction
+Luxembourg,LUX,2022-08-01,Screening
+Macao,MAC,2022-08-01,Strict Restriction
+Madagascar,MDG,2022-08-01,Screening
+Malaysia,MYS,2022-08-01,No Restriction
+Mali,MLI,2022-08-01,Screening
+Malta,MLT,2022-08-01,No Restriction
+Mauritania,MRT,2022-08-01,Screening
+Mauritius,MUS,2022-08-01,No Restriction
+Monaco,MCO,2022-08-01,Screening
+Mongolia,MNG,2022-08-01,No Restriction
+Morocco,MAR,2022-08-01,Screening
+Myanmar,MMR,2022-08-01,Screening
+Namibia,NAM,2022-08-01,Screening
+Nepal,NPL,2022-08-01,Screening
+New Zealand,NZL,2022-08-01,Screening
+Nicaragua,NIC,2022-08-01,Screening
+Niger,NER,2022-08-01,Screening
+Palestine,PSE,2022-08-01,No Entry
+Panama,PAN,2022-08-01,Screening
+Papua New Guinea,PNG,2022-08-01,Screening
+Paraguay,PRY,2022-08-01,Screening
+Peru,PER,2022-08-01,Screening
+Philippines,PHL,2022-08-01,Screening
+Poland,POL,2022-08-01,No Restriction
+Portugal,PRT,2022-08-01,Screening
+Puerto Rico,PRI,2022-08-01,Screening
+Qatar,QAT,2022-08-01,Screening
+Russia,RUS,2022-08-01,Attention
+Rwanda,RWA,2022-08-01,No Restriction
+San Marino,SMR,2022-08-01,Screening
+Saudi Arabia,SAU,2022-08-01,No Restriction
+Senegal,SEN,2022-08-01,Screening
+Serbia,SRB,2022-08-01,No Restriction
+Seychelles,SYC,2022-08-01,Screening
+Sierra Leone,SLE,2022-08-01,Screening
+Singapore,SGP,2022-08-01,Screening
+Slovakia,SVK,2022-08-01,No Restriction
+Slovenia,SVN,2022-08-01,No Restriction
+Solomon Islands,SLB,2022-08-01,Screening
+Somalia,SOM,2022-08-01,Screening
+South Africa,ZAF,2022-08-01,No Restriction
+South Sudan,SSD,2022-08-01,Screening
+Spain,ESP,2022-08-01,Screening
+Sri Lanka,LKA,2022-08-01,Screening
+Sudan,SDN,2022-08-01,Screening
+Suriname,SUR,2022-08-01,Screening
+Sweden,SWE,2022-08-01,No Restriction
+Switzerland,CHE,2022-08-01,No Restriction
+Taiwan,TWN,2022-08-01,Strict Restriction
+Tajikistan,TJK,2022-08-01,Screening
+Thailand,THA,2022-08-01,Screening
+Timor,TLS,2022-08-01,Screening
+Togo,TGO,2022-08-01,Screening
+Tonga,TON,2022-08-01,Screening
+Tunisia,TUN,2022-08-01,Screening
+Turkey,TUR,2022-08-01,Screening
+Turkmenistan,TKM,2022-08-01,No Entry
+Uganda,UGA,2022-08-01,Screening
+Ukraine,UKR,2022-08-01,Strict Restriction
+United States,USA,2022-08-01,Screening
+United States Virgin Islands,VIR,2022-08-01,Screening
+Uruguay,URY,2022-08-01,Screening
+Vanuatu,VUT,2022-08-01,Screening
+Venezuela,VEN,2022-08-01,Screening
+Vietnam,VNM,2022-08-01,No Restriction
+Yemen,YEM,2022-08-01,No Restriction
+Zambia,ZMB,2022-08-01,Screening
+Zimbabwe,ZWE,2022-08-01,Screening
